@@ -1,0 +1,25 @@
+{
+  "name": "api_google_news",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Prueba de consumir API de noticias de google argentina.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "API",
+    "google",
+    "javascript",
+    "asincronismo"
+  ],
+  "author": "nelsmed",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.0",
+    "superagent": "^7.1.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}
